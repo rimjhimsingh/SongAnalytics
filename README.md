@@ -3,7 +3,7 @@
 A full stack application that normalizes, serves, and visualizes Spotify style song playlist data.  
 The project is built with a **Python Flask** backend and a **React 18** frontend, with a focus on clean architecture and modular code.
 
----
+## ![Project Screenshot](./image.png)
 
 ## 🚀 Features
 
