@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* Vivpro Brand Colors */
+  --color-vivpro-teal: #00a99d;
+  --color-vivpro-navy: #020617;
+  --color-vivpro-bg: #f8fafc;
+  --color-vivpro-card: #ffffff;
+  --color-vivpro-mint: #e6f7f5;
+  --color-vivpro-gray: #4b5563;
+  --color-vivpro-light: #e2e8f0;
+
+  /* Fonts */
+  --font-sans: "Inter", sans-serif;
+}
